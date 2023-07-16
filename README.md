@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-I am mehdi jafarzadeh - fullstack software developer with over decade of coding and maintaing projects
+I am <b>mehdi jafarzadeh</b> - fullstack software developer with over decade of coding and maintaing projects
 
-languages that i use
-
-![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)
-
-![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)
-![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)]
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![x](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-![x](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![x](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![x](https://aleen42.github.io/badges/src/stackoverflow.svg)
-![x](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![x](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![x](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![x](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<h2>
+programming technoplogies
+</h2>
+  
 ![x](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![x](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![x](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,18 +19,48 @@ languages that i use
 ![x](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![x](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![x](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<h2>
+design
+</h2>
+
 ![x](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![x](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![x](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![x](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![x](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![x](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+
+<h2>
+productivity and manage
+</h2>
+
+![x](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![x](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
-![x](https://aleen42.github.io/badges/src/photoshop.svg)
-![x](https://aleen42.github.io/badges/src/premiere.svg)
+<h2>
+contact
+</h2>
+
+![x](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![x](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![x](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![x](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![x](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 ![x](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
-![x](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
-![x](https://starchart.cc/{username}/{repo)}.svg
+![x](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![x](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+<h2>
+apps
+</h2>
+
+![x](https://aleen42.github.io/badges/src/stackoverflow.svg)
+![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+![x](https://starchart.cc/mehdi-jafarzadeh/webco)
 
 
 <h2>in one view</h2>
