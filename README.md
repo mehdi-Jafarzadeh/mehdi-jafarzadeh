@@ -1,13 +1,16 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdi-jafarzadeh&theme=blue-green)]
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jafarzadeh&theme=blue-green)]
 
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+<!--
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdi-jafarzadeh&theme=blue-green)
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-jafarzadeh&theme=blue-green)
+![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)]
+![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)]
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
@@ -43,7 +46,6 @@ https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg
 https://starchart.cc/{username}/{repo}.svg
 
 
-<!--
 **mehdi-Jafarzadeh/mehdi-jafarzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
