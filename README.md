@@ -3,7 +3,7 @@
 I am <b>mehdi jafarzadeh</b> - fullstack software developer with over decade of coding and maintaing projects
 
 <h2>
-programming technoplogies
+programming technologies
 </h2>
   
 ![x](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
